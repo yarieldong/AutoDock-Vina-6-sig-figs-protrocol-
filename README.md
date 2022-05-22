@@ -1,4 +1,4 @@
-# AutoDock-Vina-6-sig-figs-protrocol-
+# AutoDock Vina (6 sig figs) protrocol
 ## 1. Convert receptor from pdb to pdbqt file using ADFR suite
 
   - ADFR suite is the new version of MGL tools. We will only use the “prepare receptor” function of ADFR suite.
