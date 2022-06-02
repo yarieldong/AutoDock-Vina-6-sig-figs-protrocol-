@@ -52,7 +52,8 @@ num_modes =
 $ cut -c-66 docked_ligand.pdbqt > docked_ligand.pdb
 ```
 
-Good luck :)
+Good luck :) Information on how to select compounds using ZINC can be found [here](./ZINC).
+
 Weiming Dong 6/2/2022
 
 
