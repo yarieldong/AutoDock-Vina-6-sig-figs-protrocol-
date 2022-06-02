@@ -1,4 +1,4 @@
-We used ZINC (https://zinc15.docking.org/) to select compounds that are similar to the compounds with positive dT according to Dr. Perry's result from wet lab.
+We used [ZINC](https://zinc15.docking.org/) to select compounds that are similar to the compounds with positive dT according to [Dr. Perry's result](ZINC/NCS RecQ1 TSA Hits-030922.pptx) from wet lab.
 
 How to use ZINC:
 1. From the top menu bar, select **Subtances**.
