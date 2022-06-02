@@ -9,3 +9,5 @@ How to use ZINC:
 - Similarity 40: it returns all the compounds that have Tanimoto Score > 0.4 compared to the input.
 - Similarity 30: it returns all the compounds that have Tanimoto Score > 0.3 compared to the input.
 5. You can download all the compounds with the format you want.
+
+Result is here
