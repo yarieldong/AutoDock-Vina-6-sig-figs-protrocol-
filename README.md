@@ -53,5 +53,6 @@ $ cut -c-66 docked_ligand.pdbqt > docked_ligand.pdb
 ```
 
 Good luck :)
+Weiming Dong 6/2/2022
 
 
